@@ -1,2 +1,3 @@
-# kafka-streams-clojure-demo
-This is demo Kafka Streams application written in Clojure.
+# kafka Streams Clojure Demo
+
+This is a demo Kafka Stream application.
